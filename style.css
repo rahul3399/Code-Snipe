@@ -1,0 +1,88 @@
+#title {
+  font-size:20px;
+}
+#rest2 {
+  font-size:13px;
+}
+
+#text div {
+  position:relative;
+  height: 200px;
+  width: 98%;
+  border: 1px dashed gray;
+  display: inline-block;
+}
+#text {
+  width:98%;
+  height:614px;
+}
+
+#images {
+  width: 98%
+}
+
+img {
+  height: 200px;
+  width: 98%;
+}
+
+#drag4,
+#drag5,
+#drag6,
+#drag7,
+#drag8,
+#drag9,
+#drag10,
+#drag11,
+#drag12 {
+  height: 200px;
+  width: 100%;
+
+  display: inline-block;
+}
+
+#drag4 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag5 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+
+}
+
+#drag6 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag7 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag8 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag9 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag10 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag11 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
+
+#drag12 {
+  background-image: url('img1.png');
+  background-repeat: no-repeat;
+}
